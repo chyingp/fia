@@ -1,0 +1,26 @@
+{
+  "name": "fia",
+  "version": "0.0.0",
+  "description": "No description currently.",
+  "main": "fia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chyingp/fia"
+  },
+  "keywords": [
+    "fis",
+    "fia"
+  ],
+  "author": "chyingp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyingp/fia/issues"
+  },
+  "homepage": "https://github.com/chyingp/fia",
+  "dependencies": {
+    "fis": "^1.9.18"
+  }
+}
