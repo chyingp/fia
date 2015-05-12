@@ -1,6 +1,6 @@
 {
   "name": "fis-lol",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "德玛西亚万岁",
   "main": "lol.js",
   "bin": {
