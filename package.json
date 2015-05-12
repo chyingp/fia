@@ -1,6 +1,6 @@
 {
   "name": "fis-lol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "德玛西亚万岁",
   "main": "lol.js",
   "bin": {
@@ -9,7 +9,7 @@
   },  
   "dependencies": {
     "fis": "^1.9.18",
-    "lol-command-init": "^0.0.1"
+    "lol-command-init": "^0.0.2"
   },
   "devDependencies": {},
   "scripts": {
